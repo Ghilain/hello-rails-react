@@ -1,2 +1,2 @@
-module RootHelper # rubocop:todo Layout/EndOfLine
+module RootHelper
 end
